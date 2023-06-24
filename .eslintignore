@@ -1,0 +1,5 @@
+node_modules
+dist
+docs
+logs
+**/__test__/*.test.ts
